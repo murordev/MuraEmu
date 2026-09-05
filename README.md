@@ -59,7 +59,7 @@ It is an experimental playground for reverse engineers and OS developers. Curren
 
 ## 📄 License
 
-This project is licensed under the [GPL-3.0 License](LICENSE) (or see custom license details below). Feel free to study the source code, learn about Android internals, and experiment with userspace emulation!
+This project is licensed under the [GPL-3.0 License](LICENSE.txt) (or see custom license details below). Feel free to study the source code, learn about Android internals, and experiment with userspace emulation!
 
 ---
 
