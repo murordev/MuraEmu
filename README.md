@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍩 MuraEmu
+# 🍩 MuraEmu1.6
 
 **MuraEmu is a hardcore userspace Android 1.6 (Donut) emulator running directly on modern 64-bit Android devices. No Root required.**
 
